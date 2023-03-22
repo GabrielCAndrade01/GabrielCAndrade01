@@ -9,7 +9,7 @@
 
 
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcandrade&show_icons=true&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcandrade01&show_icons=true&theme=dark"/>
 <br>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcandrade01&layout=compact&theme=dark"/>
 </div>
@@ -45,5 +45,5 @@
    <br>
    
   <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabrielcandrade&theme=drark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gabrielcandrade01&theme=drark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
